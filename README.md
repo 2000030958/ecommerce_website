@@ -18,25 +18,9 @@ This is a simple E-commerce website built using PHP, MySQL, and HTML/CSS. It all
 
 
 🛠️ Technologies Used
-
-
-
-
 PHP – Backend processing
-
-
-
-
 MySQL – Database management
-
-
-
-
 HTML/CSS – Frontend design
-
-
-
-
 JavaScript – (Optional: For enhancements)
 
 
